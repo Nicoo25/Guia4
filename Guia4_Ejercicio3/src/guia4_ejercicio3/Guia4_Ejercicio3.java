@@ -19,9 +19,9 @@ public class Guia4_Ejercicio3 {
         
         System.out.println("  Libras. ");
         
-        mone = leer.nextLine();
+        mone = leer.next(); 
         
-        System.out.println("" + mone);
+        
         convertir(cant, mone);
         
         
